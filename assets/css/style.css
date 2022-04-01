@@ -68,14 +68,14 @@ header img {
     color: #9e9e9e;
     font-family: 'Work Sans', sans-serif;
     font-size: 1.5rem;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
 }
 
 .sectionOne h1 {
     color: #fff;
     font-family: 'Didact Gothic', sans-serif;
     font-size: 9rem;
-    margin: 1rem 0 1rem 0;
+    margin: 1rem 0 2rem 0;
 }
 
 .sectionOne a {
@@ -84,11 +84,6 @@ header img {
     color: #fff;
     border: 1px solid #fff;
     padding: 1rem 1.5rem;
-}
-
-.sectionOne a:hover {
-    background: #fff;
-    color: #000;
 }
 
 .sectionOne p {
@@ -100,6 +95,12 @@ header img {
     margin-right: 7rem;
 }
 
-.sectionOne a:hover .p {
+.sectionOne a:hover {
+    background: #fff;
+    color: #000;
+}
+
+.sectionOne a:hover+p {
     color: #fff;
+    opacity: 1;
 }
