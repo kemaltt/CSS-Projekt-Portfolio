@@ -269,8 +269,8 @@ footer div a:hover {
     bottom: 0;
     left: 0;
     background-color: black;
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     transform: rotate(-45deg);
     animation-name: heart;
     animation-duration: 1s;
@@ -282,10 +282,10 @@ footer div a:hover {
     content: "";
     border-radius: 50%;
     position: absolute;
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     top: 0px;
-    left: 15px;
+    left: 10px;
 }
 
 .heart:before {
@@ -293,9 +293,9 @@ footer div a:hover {
     content: "";
     border-radius: 50%;
     position: absolute;
-    height: 30px;
-    width: 30px;
-    top: -15px;
+    height: 20px;
+    width: 20px;
+    top: -10px;
     left: 0px;
 }
 
