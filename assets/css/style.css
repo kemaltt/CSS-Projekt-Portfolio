@@ -63,8 +63,7 @@ header img {
     background-size: cover;
     width: 100vw;
     height: 100vh;
-    padding-top: 8rem;
-    padding-left: 10rem;
+    padding: 6rem 0 2rem 6rem;
 }
 
 .sectionOne h3,
@@ -72,7 +71,7 @@ header img {
     color: #9e9e9e;
     font-family: 'Work Sans', sans-serif;
     font-size: 1.5rem;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
 }
 
 .sectionOne h1,
@@ -99,8 +98,9 @@ header img {
     color: #9e9e9e;
     opacity: 0.2;
     font-size: 10rem;
+    font-size: 9rem;
     text-align: right;
-    margin-right: 7rem;
+    margin-right: 5rem;
 }
 
 .sectionOne a:hover,
@@ -122,8 +122,7 @@ header img {
     background-size: cover;
     width: 100vw;
     height: 100vh;
-    padding-top: 8rem;
-    padding-left: 10rem;
+    padding: 6rem 0 2rem 6rem;
 }
 
 .sectionTwo h3,
@@ -131,7 +130,7 @@ header img {
     color: #666;
     font-family: 'Work Sans', sans-serif;
     font-size: 1.5rem;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
 }
 
 .sectionTwo h1,
@@ -157,9 +156,9 @@ header img {
     font-family: 'Fjalla One', sans-serif;
     color: #666;
     opacity: 0.9;
-    font-size: 10rem;
+    font-size: 9rem;
     text-align: right;
-    margin-right: 7rem;
+    margin-right: 5rem;
 }
 
 .sectionTwo a:hover,
@@ -181,8 +180,7 @@ header img {
     background-size: cover;
     width: 100vw;
     height: 100vh;
-    padding-top: 8rem;
-    padding-left: 10rem;
+    padding: 6rem 0 2rem 6rem;
 }
 
 .sectionFour {
@@ -192,8 +190,7 @@ header img {
     background-size: cover;
     width: 100vw;
     height: 100vh;
-    padding-top: 8rem;
-    padding-left: 10rem;
+    padding: 6rem 0 2rem 6rem;
 }
 
 .sectionFive {
@@ -241,20 +238,19 @@ header img {
 footer {
     text-align: center;
     height: 100vh;
-    padding: 1rem;
-    padding-bottom: 1.5rem;
+    padding: 1rem 1rem;
 }
 
 footer div li {
     list-style: none;
-    margin: 1rem;
+    margin: 1.5rem;
 }
 
 footer div a {
     color: #000;
     font-family: 'Didact Gothic', sans-serif;
     font-weight: lighter;
-    font-size: 10rem;
+    font-size: 9rem;
     text-decoration: none;
 }
 
