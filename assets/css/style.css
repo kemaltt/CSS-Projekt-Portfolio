@@ -206,21 +206,21 @@ header img {
     font-size: 10rem;
 }
 
-.sectionFive article {
+.sectionFive aside {
     width: 40vw;
     height: 25vh;
     margin-left: auto;
     margin-top: 5rem;
 }
 
-.sectionFive article p {
+.sectionFive aside p {
     color: #666;
     font-size: 1.2rem;
     line-height: 1.8rem;
     margin-bottom: 3rem;
 }
 
-.sectionFive article a {
+.sectionFive aside a {
     font-family: 'Work Sans', sans-serif;
     color: #fff;
     font-size: 4rem;
@@ -228,7 +228,7 @@ header img {
     margin-top: 5rem;
 }
 
-.sectionFive article a:hover {
+.sectionFive aside a:hover {
     text-decoration: underline;
     color: #9e9e9e;
 }
